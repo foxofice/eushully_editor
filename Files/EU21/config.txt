@@ -1,0 +1,28 @@
+// 进程名称（不分大小写，一行一个）
+// proc_name: <进程名称>
+proc_name: AGE.EXE
+proc_name: AGE_CHS.EXE
+proc_name: AGE_ CHS.exe
+proc_name: AGE_CHS_W7.exe
+
+// 版本号设置（一行一个）
+// ver: <sha1>,<version>
+//
+// <version>：
+//	1.00
+//	1.03
+
+// 1.00 日文版（破解）
+ver: 496AB60584239D6694B88DC4AF76BC9BD5B34F29, 1.00
+
+// 1.00 汉化版
+ver: BF8CF101DCCFF4F2B87F27A63CDB8EDB52AFC0BE, 1.00
+
+// 1.03 日文版（未破解）
+ver: 37DD57C228D9E4BD55862ECAC4E611F16F52E8F5, 1.03
+
+// 1.03 汉化版
+ver: F1F5814E040F69312D9E8D160FA615683BCF12AF, 1.03
+
+// 1.03 汉化版（Win7）
+ver: A95E8F2FD88D8A8C0CAE77EA828142B74A8283DA, 1.03

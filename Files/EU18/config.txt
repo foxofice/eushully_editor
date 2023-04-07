@@ -1,0 +1,16 @@
+// 进程名称（不分大小写，一行一个）
+// proc_name: <进程名称>
+proc_name: AGE.EXE
+proc_name: 天结.exe
+
+// 版本号设置（一行一个）
+// ver: <sha1>,<version>
+//
+// <version>：
+//	1.00
+
+// 1.00 日文版（破解）
+ver: 46E70DC8AE5DF5DA10E7C5C2850D1867311CDD46, 1.00
+
+// 1.00 汉化版
+ver: DB04C1FB6EE72916E8485B64EBF8F3EFB25AF707, 1.00

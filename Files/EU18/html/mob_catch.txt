@@ -1,0 +1,54 @@
+<style>
+input { width: 100px; text-align: center; }
+td { width: 100px; }
+.mob_id { text-align: center; color: blue; font-weight: bold; }
+</style>
+
+<script>
+	var g_idx = 0;
+	function update_frame()
+	{
+		var div_array = document.getElementsByTagName("div");
+
+		for(var i=0; i<div_array.length; ++i)
+		{
+			var width	= 0 - div_array[i].clientWidth;
+			var height	= 0 - div_array[i].clientHeight;
+
+			switch(g_idx)
+			{
+			case 0:
+				str = "0px 0px";
+				break;
+
+			case 1:
+				// "-64px 0px"
+				str = width + "px 0px";
+				break;
+
+			case 2:
+				// 0px -80px
+				str = "0px " + height + "px";
+				break;
+
+			case 3:
+				// -64px -80px
+				str = width + "px " + height + "px";
+				break;
+			}
+
+			div_array[i].style.backgroundPosition = str;
+		}
+
+		if(++g_idx >= 4)
+			g_idx = 0;
+	}
+
+	function set_count(textbox_id, count)
+	{
+		var textbox = document.getElementById(textbox_id);
+
+		textbox.value					= count;
+		textbox.style.backgroundColor	= (count > 0) ? "lightgreen" : "";
+	}
+</script>

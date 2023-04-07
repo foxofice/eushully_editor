@@ -1,0 +1,19 @@
+// 进程名称（不分大小写，一行一个）
+// proc_name: <进程名称>
+proc_name: AGE.EXE
+proc_name: AGE_cn.EXE
+
+// 版本号设置（一行一个）
+// ver: <sha1>,<version>
+//
+// <version>：
+//	1.00
+
+// 1.00 日文版（未破解）
+ver: 2D7A6FBB8C66B029B6A410E6C1C0136DF22D6442, 1.00
+
+// 1.00 日文版（破解）
+ver: 54F1A0CD7AB0A5FDE03E96DBB6B44A93826FEDE5, 1.00
+
+// 1.00 汉化版
+ver: 6C7F79452CC73874075097D5194728E0E015BF15, 1.00
