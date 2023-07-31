@@ -9,9 +9,6 @@ proc_name: 天结.exe
 // <version>：
 //	1.00
 
-// 1.00 日文版（原版）
-ver: A1951F7B8C0B0ADD42484131A61D77CD5A6F775F, 1.00
-
 // 1.00 日文版（破解）
 ver: 46E70DC8AE5DF5DA10E7C5C2850D1867311CDD46, 1.00
 
