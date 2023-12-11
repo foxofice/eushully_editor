@@ -20,9 +20,10 @@ https://docs.microsoft.com/en-us/windows/win32/debug/system-error-codes
 
 ======================================================================
 
-游戏进程/版本号均在 Files/EU??/config.txt 中定义
+预设的游戏进程/版本号在 Files/EU??/config.txt 中定义
 
-【战女神】	Files/EU15
+【战女神ZERO】	Files/EU09
+【战女神M】	Files/EU15
 【天结1】	Files/EU18
 【封缄】	Files/EU19
 【天结2】	Files/EU21
