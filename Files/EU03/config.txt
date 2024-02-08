@@ -1,0 +1,21 @@
+// 进程名称（不分大小写，一行一个）
+// proc_name: <进程名称>
+proc_name: shaft.exe
+proc_name: shaft.cn.exe
+proc_name: shaft.cn_fix.exe
+
+// 版本号设置（一行一个）
+// ver: <sha1>,<version>
+//
+// <version>：
+//	1.00
+
+// 1.00 日文原版
+ver: 52200B1AD7ACF71F42EDED71FA797DC88F43BC65, 1.00
+
+// 1.00 汉化版
+ver: 9552AA77F28969B95899BD92427733B4DD0B8DA3, 1.00
+
+// 1.00 汉化版（字体修正）
+ver: A2681ED4719AF9391A24C9A58441F2C9C54284AB, 1.00
+ver: 45E4EA9EBA50121079328BB79EB34AF200782649, 1.00
