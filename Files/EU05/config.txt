@@ -1,0 +1,19 @@
+// 进程名称（不分大小写，一行一个）
+// proc_name: <进程名称>
+proc_name: AGE.exe
+proc_name: 幻燐姬将军2.exe
+
+// 版本号设置（一行一个）
+// ver: <sha1>,<version>
+//
+// <version>：
+//	1.00
+
+// 1.00 日文原版
+ver: AAD63555A5F007ADB69CFA431E9F257C4C442F24, 1.00
+
+// 1.00
+ver: 507223B6A122499AC91FCEEE55CE5109022F69FC, 1.00
+
+// 1.00 汉化版
+ver: 537F92B8238CE9414F69B647E97BE4A9C1F65026, 1.00
